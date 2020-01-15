@@ -1,0 +1,354 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+}
+.container {
+	width: 1140px;
+	margin: 0 auto;
+}
+/* Theme css */
+
+header {
+	background: #895A9B;
+    width: 100%;
+    float: left;
+}
+.logo {
+	width: 35%;
+    float: left;
+    margin-top: 20px;
+}
+.menu {
+	width: 65%;
+    float: left;
+    margin-top: 20px;
+}
+nav ul {
+	list-style: none;
+}
+nav ul li {
+	display: inline-block;
+    margin: 10px 30px;
+}
+nav ul li a {
+	color: #fff;
+    text-decoration: none;
+    font-size: 25px;
+}
+.header-banner {
+	width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 100px 0px;
+}
+.header-banner h2 {
+	color: #fff;
+    font-size: 22px;
+    line-height: 32px;
+    letter-spacing: 2px;
+}
+.btn {
+	background-color: #F38445;
+    padding: 13px 30px;
+    color: #fff;
+    border: none;
+    margin: 25px 0px;
+    font-size: 20px;
+    box-shadow: 0px 4px #f3844585;
+}
+
+.service {
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background: #17C0A3;
+}
+
+.service-title {
+	width: 55%;
+    margin: 0 auto;
+
+}
+.service-title h2 {
+	text-align: center;
+
+}
+.service-title span {
+	border-bottom: 3px solid #161616;
+    display: block;
+    width: 11%;
+    margin: 10px auto;
+
+}
+.service-title p {
+	text-align: center;
+
+}
+.service-feature {
+	margin: 10px 0px;
+}
+.service-one {
+	width: 22%;
+    float: left;
+    text-align: center;
+    margin: 25px 15px;
+
+}
+.service-one img {
+	
+}
+.service-one h2 {
+	
+}
+.service-one p {
+	
+}
+.team {
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background:#D3D3D3;
+
+}
+.team-title {
+	width: 55%;
+    margin: 0 auto;
+
+}
+.team-title h2 {
+	text-align: center;
+
+}
+.team-title span {
+	border-bottom: 3px solid #161616;
+    display: block;
+    width: 11%;
+    margin: 10px auto;
+
+}
+.team-title p {
+	text-align: center;
+
+}
+.team-member {
+	width: 100%;
+	float: left;
+	margin: 10px 0px;
+}
+.team-four {
+	width: 22%;
+    float: left;
+    text-align: center;
+    margin: 25px 0px;
+    padding: 10px 17px;
+
+}
+
+.team-four img {
+
+}
+.team-four h2 {
+
+}
+.team-four p {
+
+}
+.social-icon {
+
+}
+.social-icon ul {
+	list-style: none;
+
+}
+.social-icon ul li {
+	display: inline-block;
+    margin: 10px 10px;
+
+}
+.skills {
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background: #fff;
+}
+.skills-title {
+	width: 55%;
+    margin: 0 auto;
+
+}
+.skills-title h2 {
+	text-align: center;
+
+}
+.skills-title span {
+	border-bottom: 3px solid #161616;
+    display: block;
+    width: 11%;
+    margin: 10px auto;
+
+}
+.skills-title p {
+	text-align: center;
+
+}
+.skills-features {
+	margin: 10px 0px;
+}
+.skills-one {
+	width: 22%;
+    float: left;
+    text-align: center;
+    margin: 25px 0px;
+    padding: 10px 17px;
+
+}	
+
+.skills-one h2{
+	margin: 10px 30px;
+
+}
+.portfolio {
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background: #FFDC98;
+}
+.portfolio-title {
+	width: 55%;
+    margin: 0 auto;
+}
+.portfolio-title h2 {
+	text-align: center;
+}
+.portfolio-title span {
+	border-bottom: 3px solid #161616;
+    display: block;
+    width: 11%;
+    margin: 10px auto;
+}
+.portfolio-title p {
+	text-align: center;
+}
+.portfolio-one {
+	margin: 20px 0px;
+}
+.pic-one {
+	width: 50%;
+	float: left;
+}
+.portfolio-two {
+	margin: 10px 0px;
+}
+.pic-two {
+	width: 50%;
+	float: left;
+}
+
+
+
+
+.testimonials {
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background: #D54582;
+}
+.testimonials-title {
+	width: 55%;
+    margin: 0 auto;
+}
+.testimonials-title h2 {
+	text-align: center;
+	color: #fff;
+}
+.testimonials-title span {
+	border-bottom: 3px solid #161616;
+    display: block;
+    width: 11%;
+    margin: 10px auto;
+}
+.testimonials-title p {
+	text-align: center;
+	color: #fff;
+}
+.testimonials-items {
+
+
+}
+.test-one {
+	width: 50%;
+	float: left;
+}
+
+
+
+
+
+.contact {
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background: #3D549A;
+}
+.contact-title {
+	width: 55%;
+    margin: 0 auto;
+}
+.contact-title h2 {
+	text-align: center;
+	color: #fff;
+}
+.contact-title span {
+	border-bottom: 3px solid #161616;
+    display: block;
+    width: 11%;
+    margin: 10px auto;
+}
+.contact-title p {
+	text-align: center;
+	color: #fff;
+}
+.contact-form {
+	width: 55%;
+    margin: 10px auto;
+}
+.form-control {
+
+}
+.button-section {
+	width: 17%;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+footer {
+	background: #334A8E;
+	width: 100%;
+    float: left;
+    height: 80px;
+}
+.social-media ul {
+	list-style: none;
+
+}
+.social-media ul li {
+	display: inline-block;
+    margin: 25px 65px;
+	
+}
+.social-media ul li a {
+	color: #fff;
+    text-decoration: none;
+    font-size: 25px;
+}
